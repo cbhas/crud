@@ -1,3 +1,7 @@
+
+# Por ahora, como prototipo, sólo se trabajará con la tabla Categories  
+# El código se podría extender en el futuro para incluir más tablas
+
 import sqlite3
 
 def menu():
