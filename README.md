@@ -1,5 +1,7 @@
 Sistema de Gestión de Categorías
+
 Descripción
+
 Este es un sistema que permite administrar categorías almacenadas en una base de datos SQLite. Cuenta con opciones para listar, agregar, modificar y eliminar categorías de la tabla "Categories" en la base de datos "northwind.db".
 
 Funcionalidades
